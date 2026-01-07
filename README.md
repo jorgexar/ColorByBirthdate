@@ -1,3 +1,5 @@
+Check it here : https://jorgexar.github.io/ColorByBirthdate/
+
 Find out which color represents your birthdate.
 It's using the HSL color system. 
 HUE = Day of the year you were born, as HUE can go up to 360 and the days are 365. 
